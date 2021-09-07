@@ -4,7 +4,7 @@ The application has the following pages:
 
 - Charts and graphs to plot the details of different kinds of sensors with constant updation.
 - List the details of each sensor in the form of tables and cards.
-- 
+
 ## Requirements
 You need node.js pre-installed and you�re good to go.
 please use node version >= 8.9.4.
