@@ -26,7 +26,6 @@ $ yarn build
 
 ## Usage
 
-```
 $ git clone https://github.com/manojkumar95/expense-tracker-web.git
 
 $ cd expense-tracker-web
